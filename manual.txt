@@ -1,0 +1,17 @@
+Usage: MatricesMultiplication [-options] args(3)
+         
+
+where options include:
+	-m [<int>]    set the furst dimension of the matrix
+	-n [<int>]    set the second dimension of the matrix
+	-k [<int>]    set the second dimension of the second matrix
+    	
+	-t [<int>]    set number of threads
+	
+	-i 	          set file of matrices
+	-o 		      in order to save the result matrice in file
+	
+	-q	          for quiet regime - without messages of each thread
+					should be last
+	
+    -h            get help
